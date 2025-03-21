@@ -1,0 +1,20 @@
+[
+    {
+      "id": 4,
+      "plate": "11-AA-22",
+      "name": "Car5",
+      "brand": "Tesla",
+      "model": "Model S",
+      "km": 100,
+      "image": "../assets/images/car.png"
+    },
+    {
+      "id": 5,
+      "plate": "11-BB-77",
+      "name": "Car2",
+      "brand": "Tesla",
+      "model": "Model X",
+      "km": 200,
+      "image": "car.png"
+    }
+  ]

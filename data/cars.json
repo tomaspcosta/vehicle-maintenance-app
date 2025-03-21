@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "plate": "AA-11-BB",
+    "name": "Car1",
+    "brand": "Tesla",
+    "model": "Model S",
+    "km": 100,
+    "image": "../assets/images/car.png"
+  },
+  {
+    "id": 1,
+    "plate": "BB-22-CC",
+    "name": "Car2",
+    "brand": "Tesla",
+    "model": "Model X",
+    "km": 200,
+    "image": "car.png"
+  },
+  {
+    "id": 2,
+    "plate": "CC-33-DD",
+    "name": "Car3",
+    "brand": "Tesla",
+    "model": "Model Y",
+    "km": 300,
+    "image": "car.png"
+  },
+  {
+    "id": 3,
+    "plate": "DD-44-EE",
+    "name": "Car4",
+    "brand": "Tesla",
+    "model": "Model 3",
+    "km": 400,
+    "image": "car.png"
+  }
+]

@@ -1,0 +1,19 @@
+[
+    {
+       "id":0,
+       "name":"Bragança"
+    },
+    {
+        "id":1,
+        "name":"Vila Real"
+     },
+     {
+        "id":2,
+        "name":"Porto"
+     },
+     {
+        "id":3,
+        "name":"Lisboa"
+     }
+     
+ ]

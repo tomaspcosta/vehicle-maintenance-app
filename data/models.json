@@ -1,0 +1,21 @@
+[{
+    "id": 0,
+    "brand": "Tesla",
+    "model": "Model 0"
+  },
+  {
+    "id": 1,
+    "brand": "Tesla",
+    "model": "Model 1"
+  },
+  {
+    "id": 2,
+    "brand": "Tesla",
+    "model": "Model 2"
+  },
+  {
+    "id": 3,
+    "brand": "Tesla",
+    "model": "Model 3"
+  }
+]

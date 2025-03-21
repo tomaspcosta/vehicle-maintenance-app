@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "component": "Air Filter",
+        "km":20000,
+        "date": "25/09/2024"
+    },
+    {
+        "id": 1,
+        "component": "Motor",
+        "km":50000,
+        "date": "10/08/2024"
+    },
+    {
+        "id": 2,
+        "component": "Brakes",
+        "km":30000,
+        "date": "13/12/2024"
+    },
+    {
+        "id": 3,
+        "component": "Tires",
+        "km":40000,
+        "date": "16/07/2024"
+    },
+    {
+        "id": 4,
+        "component": "Oil Filter",
+        "km":15000,
+        "date": "20/09/2024"
+    }
+]

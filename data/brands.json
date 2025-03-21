@@ -1,0 +1,23 @@
+[
+    {
+       "id":0,
+       "brand":"Opel"
+    },
+    {
+        "id":1,
+        "brand":"Tesla"
+     },
+     {
+        "id":2,
+        "brand":"Volvo"
+     },
+     {
+        "id":3,
+        "brand":"Ferrari"
+     },
+     {
+        "id":4,
+        "brand":"Nissan"
+     }
+     
+ ]
